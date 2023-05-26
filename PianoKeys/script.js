@@ -17,6 +17,13 @@ function keyReturn(event)
     event.target.style.backgroundColor = '';
     event.target.style.color = ''
 }
+if(x = 12)
+{
+    console.lo
+}
+
+this.greeting = "alfredo";
+console.log(this.greeting)
 
 // Write a named function with event handler properties
 
